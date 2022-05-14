@@ -1,0 +1,4458 @@
+{
+    "Phaktanlung": [
+        [
+            10101,
+            "Taplejung"
+        ]
+    ],
+    "Mikwakhola": [
+        [
+            10102,
+            "Taplejung"
+        ]
+    ],
+    "Meringden": [
+        [
+            10103,
+            "Taplejung"
+        ]
+    ],
+    "Maiwakhola": [
+        [
+            10104,
+            "Taplejung"
+        ]
+    ],
+    "Aatharai Tribeni": [
+        [
+            10105,
+            "Taplejung"
+        ]
+    ],
+    "Phungling": [
+        [
+            10106,
+            "Taplejung"
+        ]
+    ],
+    "Pathivara Yangwarak": [
+        [
+            10107,
+            "Taplejung"
+        ]
+    ],
+    "Sirijanga": [
+        [
+            10108,
+            "Taplejung"
+        ]
+    ],
+    "Sidingba": [
+        [
+            10109,
+            "Taplejung"
+        ]
+    ],
+    "Bhotkhola": [
+        [
+            10201,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Makalu": [
+        [
+            10202,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Silichong": [
+        [
+            10203,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Chichila": [
+        [
+            10204,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Sabhapokhari": [
+        [
+            10205,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Khandabari": [
+        [
+            10206,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Panchakhapan": [
+        [
+            10207,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Chainapur": [
+        [
+            10208,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Madi": [
+        [
+            10209,
+            "Sankhuwasabha"
+        ],
+        [
+            31307,
+            "Chitawan"
+        ],
+        [
+            40501,
+            "Kaski"
+        ],
+        [
+            50205,
+            "Rolpa"
+        ]
+    ],
+    "Dharmadevi": [
+        [
+            10210,
+            "Sankhuwasabha"
+        ]
+    ],
+    "Khumbu Pasanglhamu": [
+        [
+            10301,
+            "Solukhumbu"
+        ]
+    ],
+    "Mahakulung": [
+        [
+            10302,
+            "Solukhumbu"
+        ]
+    ],
+    "Sotang": [
+        [
+            10303,
+            "Solukhumbu"
+        ]
+    ],
+    "Mapya Dudhkoshi": [
+        [
+            10304,
+            "Solukhumbu"
+        ]
+    ],
+    "Thulung Dudhkoshi": [
+        [
+            10305,
+            "Solukhumbu"
+        ]
+    ],
+    "Necha Salyan": [
+        [
+            10306,
+            "Solukhumbu"
+        ]
+    ],
+    "Solu Dhudhakunda": [
+        [
+            10307,
+            "Solukhumbu"
+        ]
+    ],
+    "Likhu Pike": [
+        [
+            10308,
+            "Solukhumbu"
+        ]
+    ],
+    "Chishankhu Gadhi": [
+        [
+            10401,
+            "Okhaldhunga"
+        ]
+    ],
+    "Siddhicharan": [
+        [
+            10402,
+            "Okhaldhunga"
+        ]
+    ],
+    "Molung": [
+        [
+            10403,
+            "Okhaldhunga"
+        ]
+    ],
+    "Khiji Demba": [
+        [
+            10404,
+            "Okhaldhunga"
+        ]
+    ],
+    "Likhu": [
+        [
+            10405,
+            "Okhaldhunga"
+        ],
+        [
+            30509,
+            "Nuwakot"
+        ]
+    ],
+    "Champadevi": [
+        [
+            10406,
+            "Okhaldhunga"
+        ]
+    ],
+    "Sunkoshi": [
+        [
+            10407,
+            "Okhaldhunga"
+        ],
+        [
+            30212,
+            "Sindhupalchok"
+        ],
+        [
+            31106,
+            "Sindhuli"
+        ]
+    ],
+    "Manebhanjyang": [
+        [
+            10408,
+            "Okhaldhunga"
+        ]
+    ],
+    "Kepilasgadhi": [
+        [
+            10501,
+            "Khotang"
+        ]
+    ],
+    "Aiselukharka": [
+        [
+            10502,
+            "Khotang"
+        ]
+    ],
+    "Rawa Besi": [
+        [
+            10503,
+            "Khotang"
+        ]
+    ],
+    "Halesi Tuwachung": [
+        [
+            10504,
+            "Khotang"
+        ]
+    ],
+    "Diktel Rupakot Majhuwagadhi": [
+        [
+            10505,
+            "Khotang"
+        ]
+    ],
+    "Sakela": [
+        [
+            10506,
+            "Khotang"
+        ]
+    ],
+    "Diprung Chuichumma": [
+        [
+            10507,
+            "Khotang"
+        ]
+    ],
+    "Khotehang": [
+        [
+            10508,
+            "Khotang"
+        ]
+    ],
+    "Jante Dhunga": [
+        [
+            10509,
+            "Khotang"
+        ]
+    ],
+    "Baraha Pokhari": [
+        [
+            10510,
+            "Khotang"
+        ]
+    ],
+    "Shadananda": [
+        [
+            10601,
+            "Bhojpur"
+        ]
+    ],
+    "Salpa Silichho": [
+        [
+            10602,
+            "Bhojpur"
+        ]
+    ],
+    "Temkemaiyum": [
+        [
+            10603,
+            "Bhojpur"
+        ]
+    ],
+    "Bhojpur": [
+        [
+            10604,
+            "Bhojpur"
+        ]
+    ],
+    "Arun": [
+        [
+            10605,
+            "Bhojpur"
+        ]
+    ],
+    "Pauwa Dunma": [
+        [
+            10606,
+            "Bhojpur"
+        ]
+    ],
+    "Ramprasad Rai": [
+        [
+            10607,
+            "Bhojpur"
+        ]
+    ],
+    "Hatuwagadhi": [
+        [
+            10608,
+            "Bhojpur"
+        ]
+    ],
+    "Aamchowk": [
+        [
+            10609,
+            "Bhojpur"
+        ]
+    ],
+    "Mahalaxmi": [
+        [
+            10701,
+            "Dhankuta"
+        ],
+        [
+            30801,
+            "Lalitpur"
+        ]
+    ],
+    "Pakhribas": [
+        [
+            10702,
+            "Dhankuta"
+        ]
+    ],
+    "Chhathar Jorpati": [
+        [
+            10703,
+            "Dhankuta"
+        ]
+    ],
+    "Dhankuta": [
+        [
+            10704,
+            "Dhankuta"
+        ]
+    ],
+    "Shahidbhumi": [
+        [
+            10705,
+            "Dhankuta"
+        ]
+    ],
+    "Sangurigadhi": [
+        [
+            10706,
+            "Dhankuta"
+        ]
+    ],
+    "Chaubise": [
+        [
+            10707,
+            "Dhankuta"
+        ]
+    ],
+    "Aatharai": [
+        [
+            10801,
+            "Terhathum"
+        ]
+    ],
+    "Phedap": [
+        [
+            10802,
+            "Terhathum"
+        ]
+    ],
+    "Menchhayayem": [
+        [
+            10803,
+            "Terhathum"
+        ]
+    ],
+    "Myanglung": [
+        [
+            10804,
+            "Terhathum"
+        ]
+    ],
+    "Laligurans": [
+        [
+            10805,
+            "Terhathum"
+        ]
+    ],
+    "Chhathar": [
+        [
+            10806,
+            "Terhathum"
+        ]
+    ],
+    "Yangbarak": [
+        [
+            10901,
+            "Panchthar"
+        ]
+    ],
+    "Hilihan": [
+        [
+            10902,
+            "Panchthar"
+        ]
+    ],
+    "Falelung": [
+        [
+            10903,
+            "Panchthar"
+        ]
+    ],
+    "Phidim": [
+        [
+            10904,
+            "Panchthar"
+        ]
+    ],
+    "Falgunanda": [
+        [
+            10905,
+            "Panchthar"
+        ]
+    ],
+    "Kummayak": [
+        [
+            10906,
+            "Panchthar"
+        ]
+    ],
+    "Tumbewa": [
+        [
+            10907,
+            "Panchthar"
+        ]
+    ],
+    "Miklajung": [
+        [
+            10908,
+            "Panchthar"
+        ],
+        [
+            11201,
+            "Morang"
+        ]
+    ],
+    "Mai Jogmai": [
+        [
+            11001,
+            "Ilam"
+        ]
+    ],
+    "Sandakpur": [
+        [
+            11002,
+            "Ilam"
+        ]
+    ],
+    "Illam": [
+        [
+            11003,
+            "Ilam"
+        ]
+    ],
+    "Deumai": [
+        [
+            11004,
+            "Ilam"
+        ]
+    ],
+    "Fakfokathum": [
+        [
+            11005,
+            "Ilam"
+        ]
+    ],
+    "Mangsebung": [
+        [
+            11006,
+            "Ilam"
+        ]
+    ],
+    "Chulachuli": [
+        [
+            11007,
+            "Ilam"
+        ]
+    ],
+    "Mai": [
+        [
+            11008,
+            "Ilam"
+        ]
+    ],
+    "Suryodaya": [
+        [
+            11009,
+            "Ilam"
+        ]
+    ],
+    "Rong": [
+        [
+            11010,
+            "Ilam"
+        ]
+    ],
+    "Mechinagar": [
+        [
+            11101,
+            "Jhapa"
+        ]
+    ],
+    "Buddhashanti": [
+        [
+            11102,
+            "Jhapa"
+        ]
+    ],
+    "Arjundhara": [
+        [
+            11103,
+            "Jhapa"
+        ]
+    ],
+    "Kankai": [
+        [
+            11104,
+            "Jhapa"
+        ]
+    ],
+    "Shivasatakshi": [
+        [
+            11105,
+            "Jhapa"
+        ]
+    ],
+    "Kamal": [
+        [
+            11106,
+            "Jhapa"
+        ]
+    ],
+    "Damak": [
+        [
+            11107,
+            "Jhapa"
+        ]
+    ],
+    "Gauradaha": [
+        [
+            11108,
+            "Jhapa"
+        ]
+    ],
+    "Gauriganj": [
+        [
+            11109,
+            "Jhapa"
+        ]
+    ],
+    "Jhapa": [
+        [
+            11110,
+            "Jhapa"
+        ]
+    ],
+    "Barhadashi": [
+        [
+            11111,
+            "Jhapa"
+        ]
+    ],
+    "Birtamod": [
+        [
+            11112,
+            "Jhapa"
+        ]
+    ],
+    "Haldibari": [
+        [
+            11113,
+            "Jhapa"
+        ]
+    ],
+    "Bhadrapur": [
+        [
+            11114,
+            "Jhapa"
+        ]
+    ],
+    "Kachanakawal": [
+        [
+            11115,
+            "Jhapa"
+        ]
+    ],
+    "Letang": [
+        [
+            11202,
+            "Morang"
+        ]
+    ],
+    "Kerabari": [
+        [
+            11203,
+            "Morang"
+        ]
+    ],
+    "Sundarharaicha": [
+        [
+            11204,
+            "Morang"
+        ]
+    ],
+    "Belbari": [
+        [
+            11205,
+            "Morang"
+        ]
+    ],
+    "Kanepokhari": [
+        [
+            11206,
+            "Morang"
+        ]
+    ],
+    "Pathari Shanishchare": [
+        [
+            11207,
+            "Morang"
+        ]
+    ],
+    "Urlabari": [
+        [
+            11208,
+            "Morang"
+        ]
+    ],
+    "Ratuwamai": [
+        [
+            11209,
+            "Morang"
+        ]
+    ],
+    "Sunwarshi": [
+        [
+            11210,
+            "Morang"
+        ]
+    ],
+    "Rangeli": [
+        [
+            11211,
+            "Morang"
+        ]
+    ],
+    "Gramthan": [
+        [
+            11212,
+            "Morang"
+        ]
+    ],
+    "Budhiganga": [
+        [
+            11213,
+            "Morang"
+        ],
+        [
+            70108,
+            "Bajura"
+        ]
+    ],
+    "Biratnagar": [
+        [
+            11214,
+            "Morang"
+        ]
+    ],
+    "Katahari": [
+        [
+            11215,
+            "Morang"
+        ]
+    ],
+    "Dhanapalthan": [
+        [
+            11216,
+            "Morang"
+        ]
+    ],
+    "Jahada": [
+        [
+            11217,
+            "Morang"
+        ]
+    ],
+    "Dharan": [
+        [
+            11301,
+            "Sunsari"
+        ]
+    ],
+    "Barahachhetra": [
+        [
+            11302,
+            "Sunsari"
+        ]
+    ],
+    "Koshi": [
+        [
+            11303,
+            "Sunsari"
+        ]
+    ],
+    "Bhokraha Narsingh": [
+        [
+            11304,
+            "Sunsari"
+        ]
+    ],
+    "Ramdhuni": [
+        [
+            11305,
+            "Sunsari"
+        ]
+    ],
+    "Itahari": [
+        [
+            11306,
+            "Sunsari"
+        ]
+    ],
+    "Duhabi": [
+        [
+            11307,
+            "Sunsari"
+        ]
+    ],
+    "Gadhi": [
+        [
+            11308,
+            "Sunsari"
+        ]
+    ],
+    "Inaruwa": [
+        [
+            11309,
+            "Sunsari"
+        ]
+    ],
+    "Harinagar": [
+        [
+            11310,
+            "Sunsari"
+        ]
+    ],
+    "Dewangunj": [
+        [
+            11311,
+            "Sunsari"
+        ]
+    ],
+    "Barju": [
+        [
+            11312,
+            "Sunsari"
+        ]
+    ],
+    "Belaka": [
+        [
+            11401,
+            "Udayapur"
+        ]
+    ],
+    "Chaudandigadhi": [
+        [
+            11402,
+            "Udayapur"
+        ]
+    ],
+    "Triyuga": [
+        [
+            11403,
+            "Udayapur"
+        ]
+    ],
+    "Rautamai": [
+        [
+            11404,
+            "Udayapur"
+        ]
+    ],
+    "Limchungbung": [
+        [
+            11405,
+            "Udayapur"
+        ]
+    ],
+    "Tapli": [
+        [
+            11406,
+            "Udayapur"
+        ]
+    ],
+    "Katari": [
+        [
+            11407,
+            "Udayapur"
+        ]
+    ],
+    "Udayapurgadhi": [
+        [
+            11408,
+            "Udayapur"
+        ]
+    ],
+    "Saptakoshi": [
+        [
+            20101,
+            "Saptari"
+        ]
+    ],
+    "Kanchanrup": [
+        [
+            20102,
+            "Saptari"
+        ]
+    ],
+    "Agnisair Krishna Sabaran": [
+        [
+            20103,
+            "Saptari"
+        ]
+    ],
+    "Rupani": [
+        [
+            20104,
+            "Saptari"
+        ]
+    ],
+    "Shambhunath": [
+        [
+            20105,
+            "Saptari"
+        ]
+    ],
+    "Khadak": [
+        [
+            20106,
+            "Saptari"
+        ]
+    ],
+    "Surunga": [
+        [
+            20107,
+            "Saptari"
+        ]
+    ],
+    "Balan-Bihul": [
+        [
+            20108,
+            "Saptari"
+        ]
+    ],
+    "Bode Barsain": [
+        [
+            20109,
+            "Saptari"
+        ]
+    ],
+    "Dakneshwori": [
+        [
+            20110,
+            "Saptari"
+        ]
+    ],
+    "Rajgadh": [
+        [
+            20111,
+            "Saptari"
+        ]
+    ],
+    "Bishnupur": [
+        [
+            20112,
+            "Saptari"
+        ],
+        [
+            20208,
+            "Siraha"
+        ]
+    ],
+    "Rajbiraj": [
+        [
+            20113,
+            "Saptari"
+        ]
+    ],
+    "Mahadewa": [
+        [
+            20114,
+            "Saptari"
+        ]
+    ],
+    "Tirahut": [
+        [
+            20115,
+            "Saptari"
+        ]
+    ],
+    "Hanumannagar Kankalini": [
+        [
+            20116,
+            "Saptari"
+        ]
+    ],
+    "Tilathi Koiladi": [
+        [
+            20117,
+            "Saptari"
+        ]
+    ],
+    "Chhinnamasta": [
+        [
+            20118,
+            "Saptari"
+        ]
+    ],
+    "Lahan": [
+        [
+            20201,
+            "Siraha"
+        ]
+    ],
+    "Dhangadhimai": [
+        [
+            20202,
+            "Siraha"
+        ]
+    ],
+    "Golbazar": [
+        [
+            20203,
+            "Siraha"
+        ]
+    ],
+    "Mirchaiya": [
+        [
+            20204,
+            "Siraha"
+        ]
+    ],
+    "Karjanha": [
+        [
+            20205,
+            "Siraha"
+        ]
+    ],
+    "Kalyanpur": [
+        [
+            20206,
+            "Siraha"
+        ]
+    ],
+    "Naraha": [
+        [
+            20207,
+            "Siraha"
+        ]
+    ],
+    "Arnama": [
+        [
+            20209,
+            "Siraha"
+        ]
+    ],
+    "Sukhipur": [
+        [
+            20210,
+            "Siraha"
+        ]
+    ],
+    "Laxmipur Patari": [
+        [
+            20211,
+            "Siraha"
+        ]
+    ],
+    "Sakhuwa Nankarkatti": [
+        [
+            20212,
+            "Siraha"
+        ]
+    ],
+    "Bhagawanpur": [
+        [
+            20213,
+            "Siraha"
+        ]
+    ],
+    "Nawarajpur": [
+        [
+            20214,
+            "Siraha"
+        ]
+    ],
+    "Bariyarpatti": [
+        [
+            20215,
+            "Siraha"
+        ]
+    ],
+    "Aurahi": [
+        [
+            20216,
+            "Siraha"
+        ],
+        [
+            20314,
+            "Dhanusa"
+        ],
+        [
+            20404,
+            "Mahottari"
+        ]
+    ],
+    "Siraha": [
+        [
+            20217,
+            "Siraha"
+        ]
+    ],
+    "Ganeshman Charnath": [
+        [
+            20301,
+            "Dhanusa"
+        ]
+    ],
+    "Dhanushadham": [
+        [
+            20302,
+            "Dhanusa"
+        ]
+    ],
+    "Mithila": [
+        [
+            20303,
+            "Dhanusa"
+        ]
+    ],
+    "Bateshwor": [
+        [
+            20304,
+            "Dhanusa"
+        ]
+    ],
+    "Chhireshwornath": [
+        [
+            20305,
+            "Dhanusa"
+        ]
+    ],
+    "Laxminiya": [
+        [
+            20306,
+            "Dhanusa"
+        ]
+    ],
+    "Mithila Bihari": [
+        [
+            20307,
+            "Dhanusa"
+        ]
+    ],
+    "Hansapur": [
+        [
+            20308,
+            "Dhanusa"
+        ]
+    ],
+    "Sabaila": [
+        [
+            20309,
+            "Dhanusa"
+        ]
+    ],
+    "Shahidnagar": [
+        [
+            20310,
+            "Dhanusa"
+        ]
+    ],
+    "Kamala": [
+        [
+            20311,
+            "Dhanusa"
+        ]
+    ],
+    "Janak Nandini": [
+        [
+            20312,
+            "Dhanusa"
+        ]
+    ],
+    "Bideha": [
+        [
+            20313,
+            "Dhanusa"
+        ]
+    ],
+    "Janakpurdham": [
+        [
+            20315,
+            "Dhanusa"
+        ]
+    ],
+    "Dhanauji": [
+        [
+            20316,
+            "Dhanusa"
+        ]
+    ],
+    "Nagarain": [
+        [
+            20317,
+            "Dhanusa"
+        ]
+    ],
+    "Mukhiyapatti Musaharmiya": [
+        [
+            20318,
+            "Dhanusa"
+        ]
+    ],
+    "Bardibas": [
+        [
+            20401,
+            "Mahottari"
+        ]
+    ],
+    "Gaushala": [
+        [
+            20402,
+            "Mahottari"
+        ]
+    ],
+    "Sonama": [
+        [
+            20403,
+            "Mahottari"
+        ]
+    ],
+    "Bhangaha": [
+        [
+            20405,
+            "Mahottari"
+        ]
+    ],
+    "Loharpatti": [
+        [
+            20406,
+            "Mahottari"
+        ]
+    ],
+    "Balawa": [
+        [
+            20407,
+            "Mahottari"
+        ]
+    ],
+    "Ram Gopalpur": [
+        [
+            20408,
+            "Mahottari"
+        ]
+    ],
+    "Samsi": [
+        [
+            20409,
+            "Mahottari"
+        ]
+    ],
+    "Manara Shisawa": [
+        [
+            20410,
+            "Mahottari"
+        ]
+    ],
+    "Ekadara": [
+        [
+            20411,
+            "Mahottari"
+        ]
+    ],
+    "Mahottari": [
+        [
+            20412,
+            "Mahottari"
+        ]
+    ],
+    "Pipara": [
+        [
+            20413,
+            "Mahottari"
+        ]
+    ],
+    "Matihani": [
+        [
+            20414,
+            "Mahottari"
+        ]
+    ],
+    "Jaleshwor": [
+        [
+            20415,
+            "Mahottari"
+        ]
+    ],
+    "Lalbandi": [
+        [
+            20501,
+            "Sarlahi"
+        ]
+    ],
+    "Hariwan": [
+        [
+            20502,
+            "Sarlahi"
+        ]
+    ],
+    "Bagmati": [
+        [
+            20503,
+            "Sarlahi"
+        ],
+        [
+            30806,
+            "Lalitpur"
+        ],
+        [
+            31210,
+            "Makwanpur"
+        ]
+    ],
+    "Barahathawa": [
+        [
+            20504,
+            "Sarlahi"
+        ]
+    ],
+    "Haripur": [
+        [
+            20505,
+            "Sarlahi"
+        ]
+    ],
+    "Ishworpur": [
+        [
+            20506,
+            "Sarlahi"
+        ]
+    ],
+    "Haripurwa": [
+        [
+            20507,
+            "Sarlahi"
+        ]
+    ],
+    "Parsa": [
+        [
+            20508,
+            "Sarlahi"
+        ]
+    ],
+    "Brahmapuri": [
+        [
+            20509,
+            "Sarlahi"
+        ]
+    ],
+    "Chandranagar": [
+        [
+            20510,
+            "Sarlahi"
+        ]
+    ],
+    "Kabilashi": [
+        [
+            20511,
+            "Sarlahi"
+        ]
+    ],
+    "Chakraghatta": [
+        [
+            20512,
+            "Sarlahi"
+        ]
+    ],
+    "Basbariya": [
+        [
+            20513,
+            "Sarlahi"
+        ]
+    ],
+    "Dhanakaul": [
+        [
+            20514,
+            "Sarlahi"
+        ]
+    ],
+    "Ramnagar": [
+        [
+            20515,
+            "Sarlahi"
+        ]
+    ],
+    "Balara": [
+        [
+            20516,
+            "Sarlahi"
+        ]
+    ],
+    "Godaita": [
+        [
+            20517,
+            "Sarlahi"
+        ]
+    ],
+    "Bishnu": [
+        [
+            20518,
+            "Sarlahi"
+        ]
+    ],
+    "Kaudena": [
+        [
+            20519,
+            "Sarlahi"
+        ]
+    ],
+    "Malangawa": [
+        [
+            20520,
+            "Sarlahi"
+        ]
+    ],
+    "Chandrapur": [
+        [
+            20601,
+            "Rautahat"
+        ]
+    ],
+    "Gujara": [
+        [
+            20602,
+            "Rautahat"
+        ]
+    ],
+    "Phatuwa Bijayapur": [
+        [
+            20603,
+            "Rautahat"
+        ]
+    ],
+    "Katahariya": [
+        [
+            20604,
+            "Rautahat"
+        ]
+    ],
+    "Brindaban": [
+        [
+            20605,
+            "Rautahat"
+        ]
+    ],
+    "Gadhimai": [
+        [
+            20606,
+            "Rautahat"
+        ]
+    ],
+    "Madhav Narayan": [
+        [
+            20607,
+            "Rautahat"
+        ]
+    ],
+    "Garuda": [
+        [
+            20608,
+            "Rautahat"
+        ]
+    ],
+    "Dewahi Gonahi": [
+        [
+            20609,
+            "Rautahat"
+        ]
+    ],
+    "Maulapur": [
+        [
+            20610,
+            "Rautahat"
+        ]
+    ],
+    "Boudhimai": [
+        [
+            20611,
+            "Rautahat"
+        ]
+    ],
+    "Paroha": [
+        [
+            20612,
+            "Rautahat"
+        ]
+    ],
+    "Rajpur": [
+        [
+            20613,
+            "Rautahat"
+        ],
+        [
+            51010,
+            "Dang"
+        ]
+    ],
+    "Yamunamai": [
+        [
+            20614,
+            "Rautahat"
+        ]
+    ],
+    "Durga Bhagawati": [
+        [
+            20615,
+            "Rautahat"
+        ]
+    ],
+    "Rajdevi": [
+        [
+            20616,
+            "Rautahat"
+        ]
+    ],
+    "Gaur": [
+        [
+            20617,
+            "Rautahat"
+        ]
+    ],
+    "Ishanath": [
+        [
+            20618,
+            "Rautahat"
+        ]
+    ],
+    "Nijagadh": [
+        [
+            20701,
+            "Bara"
+        ]
+    ],
+    "Kolhabi": [
+        [
+            20702,
+            "Bara"
+        ]
+    ],
+    "Jitpur Simara": [
+        [
+            20703,
+            "Bara"
+        ]
+    ],
+    "Parawanipur": [
+        [
+            20704,
+            "Bara"
+        ]
+    ],
+    "Prasauni": [
+        [
+            20705,
+            "Bara"
+        ]
+    ],
+    "Bishrampur": [
+        [
+            20706,
+            "Bara"
+        ]
+    ],
+    "Pheta": [
+        [
+            20707,
+            "Bara"
+        ]
+    ],
+    "Kalaiya": [
+        [
+            20708,
+            "Bara"
+        ]
+    ],
+    "Karaiyamai": [
+        [
+            20709,
+            "Bara"
+        ]
+    ],
+    "Baragadhi": [
+        [
+            20710,
+            "Bara"
+        ]
+    ],
+    "Aadarsha Kotwal": [
+        [
+            20711,
+            "Bara"
+        ]
+    ],
+    "Simroungadh": [
+        [
+            20712,
+            "Bara"
+        ]
+    ],
+    "Pacharauta": [
+        [
+            20713,
+            "Bara"
+        ]
+    ],
+    "Mahagadhimai": [
+        [
+            20714,
+            "Bara"
+        ]
+    ],
+    "Devtal": [
+        [
+            20715,
+            "Bara"
+        ]
+    ],
+    "Subarna": [
+        [
+            20716,
+            "Bara"
+        ]
+    ],
+    "Thori": [
+        [
+            20801,
+            "Parsa"
+        ]
+    ],
+    "Jirabhawani": [
+        [
+            20802,
+            "Parsa"
+        ]
+    ],
+    "Jagarnathpur": [
+        [
+            20803,
+            "Parsa"
+        ]
+    ],
+    "Paterwa Sugauli": [
+        [
+            20804,
+            "Parsa"
+        ]
+    ],
+    "Sakhuwa Prasauni": [
+        [
+            20805,
+            "Parsa"
+        ]
+    ],
+    "Parsagadhi": [
+        [
+            20806,
+            "Parsa"
+        ]
+    ],
+    "Birgunj": [
+        [
+            20807,
+            "Parsa"
+        ]
+    ],
+    "Bahudarmai": [
+        [
+            20808,
+            "Parsa"
+        ]
+    ],
+    "Pokhariya": [
+        [
+            20809,
+            "Parsa"
+        ]
+    ],
+    "Kalikamai": [
+        [
+            20810,
+            "Parsa"
+        ]
+    ],
+    "Dhobini": [
+        [
+            20811,
+            "Parsa"
+        ]
+    ],
+    "Chhipaharmai": [
+        [
+            20812,
+            "Parsa"
+        ]
+    ],
+    "Pakaha Mainpur": [
+        [
+            20813,
+            "Parsa"
+        ]
+    ],
+    "Bindabasini": [
+        [
+            20814,
+            "Parsa"
+        ]
+    ],
+    "Gaurishankar": [
+        [
+            30101,
+            "Dolakha"
+        ]
+    ],
+    "Bigu": [
+        [
+            30102,
+            "Dolakha"
+        ]
+    ],
+    "Kalinchowk": [
+        [
+            30103,
+            "Dolakha"
+        ]
+    ],
+    "Baiteshwor": [
+        [
+            30104,
+            "Dolakha"
+        ]
+    ],
+    "Jiri": [
+        [
+            30105,
+            "Dolakha"
+        ]
+    ],
+    "Tamakoshi": [
+        [
+            30106,
+            "Dolakha"
+        ]
+    ],
+    "Melung": [
+        [
+            30107,
+            "Dolakha"
+        ]
+    ],
+    "Shailung": [
+        [
+            30108,
+            "Dolakha"
+        ]
+    ],
+    "Bhimeshwor": [
+        [
+            30109,
+            "Dolakha"
+        ]
+    ],
+    "Bhotekoshi": [
+        [
+            30201,
+            "Sindhupalchok"
+        ]
+    ],
+    "Jugal": [
+        [
+            30202,
+            "Sindhupalchok"
+        ]
+    ],
+    "Panchpokhari Thangpal": [
+        [
+            30203,
+            "Sindhupalchok"
+        ]
+    ],
+    "Helambu": [
+        [
+            30204,
+            "Sindhupalchok"
+        ]
+    ],
+    "Melanchi": [
+        [
+            30205,
+            "Sindhupalchok"
+        ]
+    ],
+    "Indrawoti": [
+        [
+            30206,
+            "Sindhupalchok"
+        ]
+    ],
+    "Choutara Sangachowkgadhi": [
+        [
+            30207,
+            "Sindhupalchok"
+        ]
+    ],
+    "Balephi": [
+        [
+            30208,
+            "Sindhupalchok"
+        ]
+    ],
+    "Bahrabise": [
+        [
+            30209,
+            "Sindhupalchok"
+        ]
+    ],
+    "Tripurasundari": [
+        [
+            30210,
+            "Sindhupalchok"
+        ],
+        [
+            30404,
+            "Dhading"
+        ],
+        [
+            60105,
+            "Dolpa"
+        ]
+    ],
+    "Lisankhu Pakhar": [
+        [
+            30211,
+            "Sindhupalchok"
+        ]
+    ],
+    "Gosaikunda": [
+        [
+            30301,
+            "Rasuwa"
+        ]
+    ],
+    "Aamachhodingmo": [
+        [
+            30302,
+            "Rasuwa"
+        ]
+    ],
+    "Uttargaya": [
+        [
+            30303,
+            "Rasuwa"
+        ]
+    ],
+    "Shuva Kalika": [
+        [
+            30304,
+            "Rasuwa"
+        ],
+        [
+            60509,
+            "Kalikot"
+        ]
+    ],
+    "Naukunda": [
+        [
+            30305,
+            "Rasuwa"
+        ]
+    ],
+    "Rubi Valley": [
+        [
+            30401,
+            "Dhading"
+        ]
+    ],
+    "Khaniyabas": [
+        [
+            30402,
+            "Dhading"
+        ]
+    ],
+    "Ganga Jamuna": [
+        [
+            30403,
+            "Dhading"
+        ]
+    ],
+    "Netrawati Dabjong": [
+        [
+            30405,
+            "Dhading"
+        ]
+    ],
+    "Nilkhantha": [
+        [
+            30406,
+            "Dhading"
+        ]
+    ],
+    "Jwalamukhi": [
+        [
+            30407,
+            "Dhading"
+        ]
+    ],
+    "Siddhalek": [
+        [
+            30408,
+            "Dhading"
+        ]
+    ],
+    "Benighat Rorang": [
+        [
+            30409,
+            "Dhading"
+        ]
+    ],
+    "Gajuri": [
+        [
+            30410,
+            "Dhading"
+        ]
+    ],
+    "Galchhi": [
+        [
+            30411,
+            "Dhading"
+        ]
+    ],
+    "Thakre": [
+        [
+            30412,
+            "Dhading"
+        ]
+    ],
+    "Dhunibenshi": [
+        [
+            30413,
+            "Dhading"
+        ]
+    ],
+    "Dupcheshwor": [
+        [
+            30501,
+            "Nuwakot"
+        ]
+    ],
+    "Tadi": [
+        [
+            30502,
+            "Nuwakot"
+        ]
+    ],
+    "Suryagadhi": [
+        [
+            30503,
+            "Nuwakot"
+        ]
+    ],
+    "Bidur": [
+        [
+            30504,
+            "Nuwakot"
+        ]
+    ],
+    "Kispang": [
+        [
+            30505,
+            "Nuwakot"
+        ]
+    ],
+    "Myagang": [
+        [
+            30506,
+            "Nuwakot"
+        ]
+    ],
+    "Tarakeshwor": [
+        [
+            30507,
+            "Nuwakot"
+        ],
+        [
+            30606,
+            "Kathmandu"
+        ]
+    ],
+    "Belkotgadhi": [
+        [
+            30508,
+            "Nuwakot"
+        ]
+    ],
+    "Panchakanya": [
+        [
+            30510,
+            "Nuwakot"
+        ]
+    ],
+    "Shivapuri": [
+        [
+            30511,
+            "Nuwakot"
+        ]
+    ],
+    "Kakani": [
+        [
+            30512,
+            "Nuwakot"
+        ]
+    ],
+    "Shankharapur": [
+        [
+            30601,
+            "Kathmandu"
+        ]
+    ],
+    "Kageshwori Manahara": [
+        [
+            30602,
+            "Kathmandu"
+        ]
+    ],
+    "Gokarneshwor": [
+        [
+            30603,
+            "Kathmandu"
+        ]
+    ],
+    "Budhanilkhantha": [
+        [
+            30604,
+            "Kathmandu"
+        ]
+    ],
+    "Tokha": [
+        [
+            30605,
+            "Kathmandu"
+        ]
+    ],
+    "Nagarjun": [
+        [
+            30607,
+            "Kathmandu"
+        ]
+    ],
+    "Kathmandu": [
+        [
+            30608,
+            "Kathmandu"
+        ]
+    ],
+    "Kirtipur": [
+        [
+            30609,
+            "Kathmandu"
+        ]
+    ],
+    "Chandragiri": [
+        [
+            30610,
+            "Kathmandu"
+        ]
+    ],
+    "Dakshinkali": [
+        [
+            30611,
+            "Kathmandu"
+        ]
+    ],
+    "Changunarayan": [
+        [
+            30701,
+            "Bhaktapur"
+        ]
+    ],
+    "Bhaktapur": [
+        [
+            30702,
+            "Bhaktapur"
+        ]
+    ],
+    "Madhyapur Thimi": [
+        [
+            30703,
+            "Bhaktapur"
+        ]
+    ],
+    "Suryabinayak": [
+        [
+            30704,
+            "Bhaktapur"
+        ]
+    ],
+    "Lalitpur": [
+        [
+            30802,
+            "Lalitpur"
+        ]
+    ],
+    "Godawari": [
+        [
+            30803,
+            "Lalitpur"
+        ],
+        [
+            70803,
+            "Kailali"
+        ]
+    ],
+    "Konjyosom": [
+        [
+            30804,
+            "Lalitpur"
+        ]
+    ],
+    "Mahankal": [
+        [
+            30805,
+            "Lalitpur"
+        ]
+    ],
+    "Chauri Deurali": [
+        [
+            30901,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Bhumlu": [
+        [
+            30902,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Mandan Deupur": [
+        [
+            30903,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Banepa": [
+        [
+            30904,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Dhulikhel": [
+        [
+            30905,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Panchkhal": [
+        [
+            30906,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Temal": [
+        [
+            30907,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Namobuddha": [
+        [
+            30908,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Panauti": [
+        [
+            30909,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Bethanchowk": [
+        [
+            30910,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Roshi": [
+        [
+            30911,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Mahabharat": [
+        [
+            30912,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Khanikhola": [
+        [
+            30913,
+            "Kavrepalanchok"
+        ]
+    ],
+    "Umakunda": [
+        [
+            31001,
+            "Ramechhap"
+        ]
+    ],
+    "Gokulganga": [
+        [
+            31002,
+            "Ramechhap"
+        ]
+    ],
+    "Likhu Tamakoshi": [
+        [
+            31003,
+            "Ramechhap"
+        ]
+    ],
+    "Ramechhap": [
+        [
+            31004,
+            "Ramechhap"
+        ]
+    ],
+    "Manthali": [
+        [
+            31005,
+            "Ramechhap"
+        ]
+    ],
+    "Khandadevi": [
+        [
+            31006,
+            "Ramechhap"
+        ]
+    ],
+    "Doramba": [
+        [
+            31007,
+            "Ramechhap"
+        ]
+    ],
+    "Sunapati": [
+        [
+            31008,
+            "Ramechhap"
+        ]
+    ],
+    "Dudhouli": [
+        [
+            31101,
+            "Sindhuli"
+        ]
+    ],
+    "Phikkal": [
+        [
+            31102,
+            "Sindhuli"
+        ]
+    ],
+    "Tinpatan": [
+        [
+            31103,
+            "Sindhuli"
+        ]
+    ],
+    "Golanjor": [
+        [
+            31104,
+            "Sindhuli"
+        ]
+    ],
+    "Kamalamai": [
+        [
+            31105,
+            "Sindhuli"
+        ]
+    ],
+    "Ghyanglekha": [
+        [
+            31107,
+            "Sindhuli"
+        ]
+    ],
+    "Marin": [
+        [
+            31108,
+            "Sindhuli"
+        ]
+    ],
+    "Hariharpurgaghi": [
+        [
+            31109,
+            "Sindhuli"
+        ]
+    ],
+    "Indrasarowar": [
+        [
+            31201,
+            "Makwanpur"
+        ]
+    ],
+    "Thaha": [
+        [
+            31202,
+            "Makwanpur"
+        ]
+    ],
+    "Kailash": [
+        [
+            31203,
+            "Makwanpur"
+        ]
+    ],
+    "Raksirang": [
+        [
+            31204,
+            "Makwanpur"
+        ]
+    ],
+    "Manahari": [
+        [
+            31205,
+            "Makwanpur"
+        ]
+    ],
+    "Hetauda": [
+        [
+            31206,
+            "Makwanpur"
+        ]
+    ],
+    "Bhimphedi": [
+        [
+            31207,
+            "Makwanpur"
+        ]
+    ],
+    "Makawanpurgadhi": [
+        [
+            31208,
+            "Makwanpur"
+        ]
+    ],
+    "Bakaiya": [
+        [
+            31209,
+            "Makwanpur"
+        ]
+    ],
+    "Rapti": [
+        [
+            31301,
+            "Chitawan"
+        ],
+        [
+            51008,
+            "Dang"
+        ]
+    ],
+    "Kalika": [
+        [
+            31302,
+            "Chitawan"
+        ]
+    ],
+    "Ichchha Kamana": [
+        [
+            31303,
+            "Chitawan"
+        ]
+    ],
+    "Bharatpur": [
+        [
+            31304,
+            "Chitawan"
+        ]
+    ],
+    "Ratnanagar": [
+        [
+            31305,
+            "Chitawan"
+        ]
+    ],
+    "Khairahani": [
+        [
+            31306,
+            "Chitawan"
+        ]
+    ],
+    "Chumanubri": [
+        [
+            40101,
+            "Gorkha"
+        ]
+    ],
+    "Ajirkot": [
+        [
+            40102,
+            "Gorkha"
+        ]
+    ],
+    "Barpak Sulikot": [
+        [
+            40103,
+            "Gorkha"
+        ]
+    ],
+    "Dharche": [
+        [
+            40104,
+            "Gorkha"
+        ]
+    ],
+    "Aarughat": [
+        [
+            40105,
+            "Gorkha"
+        ]
+    ],
+    "Bhimsenthapa": [
+        [
+            40106,
+            "Gorkha"
+        ]
+    ],
+    "Siranchowk": [
+        [
+            40107,
+            "Gorkha"
+        ]
+    ],
+    "Palungtar": [
+        [
+            40108,
+            "Gorkha"
+        ]
+    ],
+    "Gorkha": [
+        [
+            40109,
+            "Gorkha"
+        ]
+    ],
+    "Shahid Lakhan": [
+        [
+            40110,
+            "Gorkha"
+        ]
+    ],
+    "Gandaki": [
+        [
+            40111,
+            "Gorkha"
+        ]
+    ],
+    "Narpa Bhumi": [
+        [
+            40201,
+            "Manang"
+        ]
+    ],
+    "Manang Ngisyang": [
+        [
+            40202,
+            "Manang"
+        ]
+    ],
+    "Chame": [
+        [
+            40203,
+            "Manang"
+        ]
+    ],
+    "Nason": [
+        [
+            40204,
+            "Manang"
+        ]
+    ],
+    "Lo Ghekar Damodarkunda": [
+        [
+            40301,
+            "Mustang"
+        ]
+    ],
+    "Gharpajhong": [
+        [
+            40302,
+            "Mustang"
+        ]
+    ],
+    "Varagung Muktichhetra": [
+        [
+            40303,
+            "Mustang"
+        ]
+    ],
+    "Lomanthang": [
+        [
+            40304,
+            "Mustang"
+        ]
+    ],
+    "Thasang": [
+        [
+            40305,
+            "Mustang"
+        ]
+    ],
+    "Annapurna": [
+        [
+            40401,
+            "Myagdi"
+        ],
+        [
+            40503,
+            "Kaski"
+        ]
+    ],
+    "Raghuganga": [
+        [
+            40402,
+            "Myagdi"
+        ]
+    ],
+    "Dhawalagiri": [
+        [
+            40403,
+            "Myagdi"
+        ]
+    ],
+    "Malika": [
+        [
+            40404,
+            "Myagdi"
+        ],
+        [
+            50406,
+            "Gulmi"
+        ]
+    ],
+    "Mangala": [
+        [
+            40405,
+            "Myagdi"
+        ]
+    ],
+    "Beni": [
+        [
+            40406,
+            "Myagdi"
+        ]
+    ],
+    "Machhapuchchhre": [
+        [
+            40502,
+            "Kaski"
+        ]
+    ],
+    "Pokhara": [
+        [
+            40504,
+            "Kaski"
+        ]
+    ],
+    "Rupa": [
+        [
+            40505,
+            "Kaski"
+        ]
+    ],
+    "Dordi": [
+        [
+            40601,
+            "Lamjung"
+        ]
+    ],
+    "Marshyangdi": [
+        [
+            40602,
+            "Lamjung"
+        ]
+    ],
+    "Kwhola Sothar": [
+        [
+            40603,
+            "Lamjung"
+        ]
+    ],
+    "Madhya Nepal": [
+        [
+            40604,
+            "Lamjung"
+        ]
+    ],
+    "Bensi Shahar": [
+        [
+            40605,
+            "Lamjung"
+        ]
+    ],
+    "Sundarbazar": [
+        [
+            40606,
+            "Lamjung"
+        ]
+    ],
+    "Rainas": [
+        [
+            40607,
+            "Lamjung"
+        ]
+    ],
+    "Dudhapokhari": [
+        [
+            40608,
+            "Lamjung"
+        ]
+    ],
+    "Bhanu": [
+        [
+            40701,
+            "Tanahu"
+        ]
+    ],
+    "Byas": [
+        [
+            40702,
+            "Tanahu"
+        ],
+        [
+            70301,
+            "Darchula"
+        ]
+    ],
+    "Myagde": [
+        [
+            40703,
+            "Tanahu"
+        ]
+    ],
+    "Shuklagandaki": [
+        [
+            40704,
+            "Tanahu"
+        ]
+    ],
+    "Bhimad": [
+        [
+            40705,
+            "Tanahu"
+        ]
+    ],
+    "Ghiring": [
+        [
+            40706,
+            "Tanahu"
+        ]
+    ],
+    "Rhishing": [
+        [
+            40707,
+            "Tanahu"
+        ]
+    ],
+    "Devghat": [
+        [
+            40708,
+            "Tanahu"
+        ]
+    ],
+    "Bandipur": [
+        [
+            40709,
+            "Tanahu"
+        ]
+    ],
+    "Aanbu Khaireni": [
+        [
+            40710,
+            "Tanahu"
+        ]
+    ],
+    "Gaidakot": [
+        [
+            40801,
+            "Nawalparasi East"
+        ]
+    ],
+    "Bulingtar": [
+        [
+            40802,
+            "Nawalparasi East"
+        ]
+    ],
+    "Baudikali": [
+        [
+            40803,
+            "Nawalparasi East"
+        ]
+    ],
+    "Hupsekot": [
+        [
+            40804,
+            "Nawalparasi East"
+        ]
+    ],
+    "Devchuli": [
+        [
+            40805,
+            "Nawalparasi East"
+        ]
+    ],
+    "Kawasoti": [
+        [
+            40806,
+            "Nawalparasi East"
+        ]
+    ],
+    "Madhya Bindu": [
+        [
+            40807,
+            "Nawalparasi East"
+        ]
+    ],
+    "Binayi Tribeni": [
+        [
+            40808,
+            "Nawalparasi East"
+        ]
+    ],
+    "Putalibazar": [
+        [
+            40901,
+            "Syangja"
+        ]
+    ],
+    "Phedikhola": [
+        [
+            40902,
+            "Syangja"
+        ]
+    ],
+    "Aandhikhola": [
+        [
+            40903,
+            "Syangja"
+        ]
+    ],
+    "Arjun Choupari": [
+        [
+            40904,
+            "Syangja"
+        ]
+    ],
+    "Bhirkot": [
+        [
+            40905,
+            "Syangja"
+        ]
+    ],
+    "Biruwa": [
+        [
+            40906,
+            "Syangja"
+        ]
+    ],
+    "Harinas": [
+        [
+            40907,
+            "Syangja"
+        ]
+    ],
+    "Chapakot": [
+        [
+            40908,
+            "Syangja"
+        ]
+    ],
+    "Walling": [
+        [
+            40909,
+            "Syangja"
+        ]
+    ],
+    "Galyang": [
+        [
+            40910,
+            "Syangja"
+        ]
+    ],
+    "Kaligandaki": [
+        [
+            40911,
+            "Syangja"
+        ]
+    ],
+    "Modi": [
+        [
+            41001,
+            "Parbat"
+        ]
+    ],
+    "Jaljala": [
+        [
+            41002,
+            "Parbat"
+        ]
+    ],
+    "Kushma": [
+        [
+            41003,
+            "Parbat"
+        ]
+    ],
+    "Phalebas": [
+        [
+            41004,
+            "Parbat"
+        ]
+    ],
+    "Mahashila": [
+        [
+            41005,
+            "Parbat"
+        ]
+    ],
+    "Bihadi": [
+        [
+            41006,
+            "Parbat"
+        ]
+    ],
+    "Paiyu": [
+        [
+            41007,
+            "Parbat"
+        ]
+    ],
+    "Baglung": [
+        [
+            41101,
+            "Baglung"
+        ]
+    ],
+    "Kathekhola": [
+        [
+            41102,
+            "Baglung"
+        ]
+    ],
+    "Tarakhola": [
+        [
+            41103,
+            "Baglung"
+        ]
+    ],
+    "Tamankhola": [
+        [
+            41104,
+            "Baglung"
+        ]
+    ],
+    "Dhorpatan": [
+        [
+            41105,
+            "Baglung"
+        ]
+    ],
+    "Nisikhola": [
+        [
+            41106,
+            "Baglung"
+        ]
+    ],
+    "Badigad": [
+        [
+            41107,
+            "Baglung"
+        ]
+    ],
+    "Galkot": [
+        [
+            41108,
+            "Baglung"
+        ]
+    ],
+    "Bareng": [
+        [
+            41109,
+            "Baglung"
+        ]
+    ],
+    "Jaimuni": [
+        [
+            41110,
+            "Baglung"
+        ]
+    ],
+    "Putha Uttanganga": [
+        [
+            50101,
+            "Rukum East"
+        ]
+    ],
+    "Sisne": [
+        [
+            50102,
+            "Rukum East"
+        ]
+    ],
+    "Bhoome": [
+        [
+            50103,
+            "Rukum East"
+        ]
+    ],
+    "Sunchhahari": [
+        [
+            50201,
+            "Rolpa"
+        ]
+    ],
+    "Thawang": [
+        [
+            50202,
+            "Rolpa"
+        ]
+    ],
+    "Pariwartan": [
+        [
+            50203,
+            "Rolpa"
+        ]
+    ],
+    "Gangadev": [
+        [
+            50204,
+            "Rolpa"
+        ]
+    ],
+    "Tribeni": [
+        [
+            50206,
+            "Rolpa"
+        ],
+        [
+            60805,
+            "Rukum West"
+        ],
+        [
+            60909,
+            "Salyan"
+        ],
+        [
+            70109,
+            "Bajura"
+        ]
+    ],
+    "Rolpa": [
+        [
+            50207,
+            "Rolpa"
+        ]
+    ],
+    "Runtigadhi": [
+        [
+            50208,
+            "Rolpa"
+        ]
+    ],
+    "Sunil Smriti": [
+        [
+            50209,
+            "Rolpa"
+        ]
+    ],
+    "Lungri": [
+        [
+            50210,
+            "Rolpa"
+        ]
+    ],
+    "Gaumukhi": [
+        [
+            50301,
+            "Pyuthan"
+        ]
+    ],
+    "Naubahini": [
+        [
+            50302,
+            "Pyuthan"
+        ]
+    ],
+    "Jhimaruk": [
+        [
+            50303,
+            "Pyuthan"
+        ]
+    ],
+    "Pyuthan": [
+        [
+            50304,
+            "Pyuthan"
+        ]
+    ],
+    "Sworgadwari": [
+        [
+            50305,
+            "Pyuthan"
+        ]
+    ],
+    "Mandavi": [
+        [
+            50306,
+            "Pyuthan"
+        ]
+    ],
+    "Mallarani": [
+        [
+            50307,
+            "Pyuthan"
+        ]
+    ],
+    "Aairawati": [
+        [
+            50308,
+            "Pyuthan"
+        ]
+    ],
+    "Sarumarani": [
+        [
+            50309,
+            "Pyuthan"
+        ]
+    ],
+    "Kali Gandaki": [
+        [
+            50401,
+            "Gulmi"
+        ]
+    ],
+    "Satyawoti": [
+        [
+            50402,
+            "Gulmi"
+        ]
+    ],
+    "Chandrakot": [
+        [
+            50403,
+            "Gulmi"
+        ]
+    ],
+    "Musikot": [
+        [
+            50404,
+            "Gulmi"
+        ],
+        [
+            60804,
+            "Rukum West"
+        ]
+    ],
+    "Isma": [
+        [
+            50405,
+            "Gulmi"
+        ]
+    ],
+    "Madane": [
+        [
+            50407,
+            "Gulmi"
+        ]
+    ],
+    "Dhurkot": [
+        [
+            50408,
+            "Gulmi"
+        ]
+    ],
+    "Resunga": [
+        [
+            50409,
+            "Gulmi"
+        ]
+    ],
+    "Gulmi Durbar": [
+        [
+            50410,
+            "Gulmi"
+        ]
+    ],
+    "Chhatrakot": [
+        [
+            50411,
+            "Gulmi"
+        ]
+    ],
+    "Ruruchhetra": [
+        [
+            50412,
+            "Gulmi"
+        ]
+    ],
+    "Chhatradev": [
+        [
+            50501,
+            "Arghakhanchi"
+        ]
+    ],
+    "Malarani": [
+        [
+            50502,
+            "Arghakhanchi"
+        ]
+    ],
+    "Bhumikasthan": [
+        [
+            50503,
+            "Arghakhanchi"
+        ]
+    ],
+    "Sandhikharka": [
+        [
+            50504,
+            "Arghakhanchi"
+        ]
+    ],
+    "Panini": [
+        [
+            50505,
+            "Arghakhanchi"
+        ]
+    ],
+    "Shitaganga": [
+        [
+            50506,
+            "Arghakhanchi"
+        ]
+    ],
+    "Rampur": [
+        [
+            50601,
+            "Palpa"
+        ]
+    ],
+    "Purbakhola": [
+        [
+            50602,
+            "Palpa"
+        ]
+    ],
+    "Rambha": [
+        [
+            50603,
+            "Palpa"
+        ]
+    ],
+    "Baganaskali": [
+        [
+            50604,
+            "Palpa"
+        ]
+    ],
+    "Tansen": [
+        [
+            50605,
+            "Palpa"
+        ]
+    ],
+    "Ribdikot": [
+        [
+            50606,
+            "Palpa"
+        ]
+    ],
+    "Rainadevi Chhahara": [
+        [
+            50607,
+            "Palpa"
+        ]
+    ],
+    "Tinau": [
+        [
+            50608,
+            "Palpa"
+        ]
+    ],
+    "Mathagadhi": [
+        [
+            50609,
+            "Palpa"
+        ]
+    ],
+    "Nisdi": [
+        [
+            50610,
+            "Palpa"
+        ]
+    ],
+    "Bardaghat": [
+        [
+            50701,
+            "Nawalparasi West"
+        ]
+    ],
+    "Sunawal": [
+        [
+            50702,
+            "Nawalparasi West"
+        ]
+    ],
+    "Ramgram": [
+        [
+            50703,
+            "Nawalparasi West"
+        ]
+    ],
+    "Palhinandan": [
+        [
+            50704,
+            "Nawalparasi West"
+        ]
+    ],
+    "Sarawal": [
+        [
+            50705,
+            "Nawalparasi West"
+        ]
+    ],
+    "Pratapapur": [
+        [
+            50706,
+            "Nawalparasi West"
+        ]
+    ],
+    "Susta": [
+        [
+            50707,
+            "Nawalparasi West"
+        ]
+    ],
+    "Devdaha": [
+        [
+            50801,
+            "Rupandehi"
+        ]
+    ],
+    "Butwal": [
+        [
+            50802,
+            "Rupandehi"
+        ]
+    ],
+    "Sainamaina": [
+        [
+            50803,
+            "Rupandehi"
+        ]
+    ],
+    "Kanchan": [
+        [
+            50804,
+            "Rupandehi"
+        ]
+    ],
+    "Gaidahawa": [
+        [
+            50805,
+            "Rupandehi"
+        ]
+    ],
+    "Suddhodhan": [
+        [
+            50806,
+            "Rupandehi"
+        ]
+    ],
+    "Siyari": [
+        [
+            50807,
+            "Rupandehi"
+        ]
+    ],
+    "Tilottama": [
+        [
+            50808,
+            "Rupandehi"
+        ]
+    ],
+    "Om Satiya": [
+        [
+            50809,
+            "Rupandehi"
+        ]
+    ],
+    "Rohini": [
+        [
+            50810,
+            "Rupandehi"
+        ]
+    ],
+    "Siddharthanagar": [
+        [
+            50811,
+            "Rupandehi"
+        ]
+    ],
+    "Mayadevi": [
+        [
+            50812,
+            "Rupandehi"
+        ],
+        [
+            50909,
+            "Kapilbastu"
+        ]
+    ],
+    "Lumbini Sanskritik": [
+        [
+            50813,
+            "Rupandehi"
+        ]
+    ],
+    "Kotahimai": [
+        [
+            50814,
+            "Rupandehi"
+        ]
+    ],
+    "Sammarimai": [
+        [
+            50815,
+            "Rupandehi"
+        ]
+    ],
+    "Marchawari": [
+        [
+            50816,
+            "Rupandehi"
+        ]
+    ],
+    "Banganga": [
+        [
+            50901,
+            "Kapilbastu"
+        ]
+    ],
+    "Buddhabhumi": [
+        [
+            50902,
+            "Kapilbastu"
+        ]
+    ],
+    "Shivaraj": [
+        [
+            50903,
+            "Kapilbastu"
+        ]
+    ],
+    "Bijayanagar": [
+        [
+            50904,
+            "Kapilbastu"
+        ]
+    ],
+    "Krishnanagar": [
+        [
+            50905,
+            "Kapilbastu"
+        ]
+    ],
+    "Maharajganj": [
+        [
+            50906,
+            "Kapilbastu"
+        ]
+    ],
+    "Kapilbastu": [
+        [
+            50907,
+            "Kapilbastu"
+        ]
+    ],
+    "Yasodhara": [
+        [
+            50908,
+            "Kapilbastu"
+        ]
+    ],
+    "Shuddhodhan": [
+        [
+            50910,
+            "Kapilbastu"
+        ]
+    ],
+    "Bangalachuli": [
+        [
+            51001,
+            "Dang"
+        ]
+    ],
+    "Ghorahi": [
+        [
+            51002,
+            "Dang"
+        ]
+    ],
+    "Tulsipur": [
+        [
+            51003,
+            "Dang"
+        ]
+    ],
+    "Shantinagar": [
+        [
+            51004,
+            "Dang"
+        ]
+    ],
+    "Babai": [
+        [
+            51005,
+            "Dang"
+        ]
+    ],
+    "Dangisharan": [
+        [
+            51006,
+            "Dang"
+        ]
+    ],
+    "Lamahi": [
+        [
+            51007,
+            "Dang"
+        ]
+    ],
+    "Gadhawa": [
+        [
+            51009,
+            "Dang"
+        ]
+    ],
+    "Rapti Sonari": [
+        [
+            51101,
+            "Banke"
+        ]
+    ],
+    "Kohalpur": [
+        [
+            51102,
+            "Banke"
+        ]
+    ],
+    "Baijanath": [
+        [
+            51103,
+            "Banke"
+        ]
+    ],
+    "Khajura": [
+        [
+            51104,
+            "Banke"
+        ]
+    ],
+    "Janaki": [
+        [
+            51105,
+            "Banke"
+        ],
+        [
+            70808,
+            "Kailali"
+        ]
+    ],
+    "Nepalganj": [
+        [
+            51106,
+            "Banke"
+        ]
+    ],
+    "Duduwa": [
+        [
+            51107,
+            "Banke"
+        ]
+    ],
+    "Narainapur": [
+        [
+            51108,
+            "Banke"
+        ]
+    ],
+    "Bansgadhi": [
+        [
+            51201,
+            "Bardiya"
+        ]
+    ],
+    "Barbardiya": [
+        [
+            51202,
+            "Bardiya"
+        ]
+    ],
+    "Thakurbaba": [
+        [
+            51203,
+            "Bardiya"
+        ]
+    ],
+    "Geruwa": [
+        [
+            51204,
+            "Bardiya"
+        ]
+    ],
+    "Rajapur": [
+        [
+            51205,
+            "Bardiya"
+        ]
+    ],
+    "Madhuwan": [
+        [
+            51206,
+            "Bardiya"
+        ]
+    ],
+    "Gulariya": [
+        [
+            51207,
+            "Bardiya"
+        ]
+    ],
+    "Badhaiyatal": [
+        [
+            51208,
+            "Bardiya"
+        ]
+    ],
+    "Dolpo Buddha": [
+        [
+            60101,
+            "Dolpa"
+        ]
+    ],
+    "Shey Phoksundo": [
+        [
+            60102,
+            "Dolpa"
+        ]
+    ],
+    "Jagadulla": [
+        [
+            60103,
+            "Dolpa"
+        ]
+    ],
+    "Mudkechula": [
+        [
+            60104,
+            "Dolpa"
+        ]
+    ],
+    "Thulibheri": [
+        [
+            60106,
+            "Dolpa"
+        ]
+    ],
+    "Kaike": [
+        [
+            60107,
+            "Dolpa"
+        ]
+    ],
+    "Chharka Tangsong": [
+        [
+            60108,
+            "Dolpa"
+        ]
+    ],
+    "Mugumakarmarog": [
+        [
+            60201,
+            "Mugu"
+        ]
+    ],
+    "Chhayanath Rara": [
+        [
+            60202,
+            "Mugu"
+        ]
+    ],
+    "Soru": [
+        [
+            60203,
+            "Mugu"
+        ]
+    ],
+    "Khatyad": [
+        [
+            60204,
+            "Mugu"
+        ]
+    ],
+    "Chankheli": [
+        [
+            60301,
+            "Humla"
+        ]
+    ],
+    "Kharpunath": [
+        [
+            60302,
+            "Humla"
+        ]
+    ],
+    "Simkot": [
+        [
+            60303,
+            "Humla"
+        ]
+    ],
+    "Namkha": [
+        [
+            60304,
+            "Humla"
+        ]
+    ],
+    "Sarkegad": [
+        [
+            60305,
+            "Humla"
+        ]
+    ],
+    "Adanchuli": [
+        [
+            60306,
+            "Humla"
+        ]
+    ],
+    "Tanjakot": [
+        [
+            60307,
+            "Humla"
+        ]
+    ],
+    "Patarasi": [
+        [
+            60401,
+            "Jumla"
+        ]
+    ],
+    "Kanaka Sundari": [
+        [
+            60402,
+            "Jumla"
+        ]
+    ],
+    "Sinja": [
+        [
+            60403,
+            "Jumla"
+        ]
+    ],
+    "Chandannath": [
+        [
+            60404,
+            "Jumla"
+        ]
+    ],
+    "Guthichaur": [
+        [
+            60405,
+            "Jumla"
+        ]
+    ],
+    "Tatopani": [
+        [
+            60406,
+            "Jumla"
+        ]
+    ],
+    "Tila": [
+        [
+            60407,
+            "Jumla"
+        ]
+    ],
+    "Hima": [
+        [
+            60408,
+            "Jumla"
+        ]
+    ],
+    "Palata": [
+        [
+            60501,
+            "Kalikot"
+        ]
+    ],
+    "Pachal Jharana": [
+        [
+            60502,
+            "Kalikot"
+        ]
+    ],
+    "Raskot": [
+        [
+            60503,
+            "Kalikot"
+        ]
+    ],
+    "Sanni Tribeni": [
+        [
+            60504,
+            "Kalikot"
+        ]
+    ],
+    "Naraharinath": [
+        [
+            60505,
+            "Kalikot"
+        ]
+    ],
+    "Khandachakra": [
+        [
+            60506,
+            "Kalikot"
+        ]
+    ],
+    "Tilagupha": [
+        [
+            60507,
+            "Kalikot"
+        ]
+    ],
+    "Mahawai": [
+        [
+            60508,
+            "Kalikot"
+        ]
+    ],
+    "Naumule": [
+        [
+            60601,
+            "Dailekh"
+        ]
+    ],
+    "Mahabu": [
+        [
+            60602,
+            "Dailekh"
+        ]
+    ],
+    "Bhairabi": [
+        [
+            60603,
+            "Dailekh"
+        ]
+    ],
+    "Thantikandh": [
+        [
+            60604,
+            "Dailekh"
+        ]
+    ],
+    "Aathbis": [
+        [
+            60605,
+            "Dailekh"
+        ]
+    ],
+    "Chamunda Bindrasaini": [
+        [
+            60606,
+            "Dailekh"
+        ]
+    ],
+    "Dullu": [
+        [
+            60607,
+            "Dailekh"
+        ]
+    ],
+    "Narayan": [
+        [
+            60608,
+            "Dailekh"
+        ]
+    ],
+    "Bhagawatimai": [
+        [
+            60609,
+            "Dailekh"
+        ]
+    ],
+    "Dungeshwor": [
+        [
+            60610,
+            "Dailekh"
+        ]
+    ],
+    "Gurans": [
+        [
+            60611,
+            "Dailekh"
+        ]
+    ],
+    "Barekot": [
+        [
+            60701,
+            "Jajarkot"
+        ]
+    ],
+    "Kushe": [
+        [
+            60702,
+            "Jajarkot"
+        ]
+    ],
+    "Junichande": [
+        [
+            60703,
+            "Jajarkot"
+        ]
+    ],
+    "Chhedagad": [
+        [
+            60704,
+            "Jajarkot"
+        ]
+    ],
+    "Shivalaya": [
+        [
+            60705,
+            "Jajarkot"
+        ]
+    ],
+    "Bheri Malika": [
+        [
+            60706,
+            "Jajarkot"
+        ]
+    ],
+    "Nalgad": [
+        [
+            60707,
+            "Jajarkot"
+        ]
+    ],
+    "Aathabisakot": [
+        [
+            60801,
+            "Rukum West"
+        ]
+    ],
+    "Sanibheri": [
+        [
+            60802,
+            "Rukum West"
+        ]
+    ],
+    "Banphikot": [
+        [
+            60803,
+            "Rukum West"
+        ]
+    ],
+    "Chaurjahari": [
+        [
+            60806,
+            "Rukum West"
+        ]
+    ],
+    "Darma": [
+        [
+            60901,
+            "Salyan"
+        ]
+    ],
+    "Kumakh": [
+        [
+            60902,
+            "Salyan"
+        ]
+    ],
+    "Banagad Kupinde": [
+        [
+            60903,
+            "Salyan"
+        ]
+    ],
+    "Siddha Kumakh": [
+        [
+            60904,
+            "Salyan"
+        ]
+    ],
+    "Bagachour": [
+        [
+            60905,
+            "Salyan"
+        ]
+    ],
+    "Chhatreshwori": [
+        [
+            60906,
+            "Salyan"
+        ]
+    ],
+    "Sharada": [
+        [
+            60907,
+            "Salyan"
+        ]
+    ],
+    "Kalimati": [
+        [
+            60908,
+            "Salyan"
+        ]
+    ],
+    "Kapurkot": [
+        [
+            60910,
+            "Salyan"
+        ]
+    ],
+    "Simta": [
+        [
+            61001,
+            "Surkhet"
+        ]
+    ],
+    "Chingad": [
+        [
+            61002,
+            "Surkhet"
+        ]
+    ],
+    "Lekabeshi": [
+        [
+            61003,
+            "Surkhet"
+        ]
+    ],
+    "Gurbhakot": [
+        [
+            61004,
+            "Surkhet"
+        ]
+    ],
+    "Bheriganga": [
+        [
+            61005,
+            "Surkhet"
+        ]
+    ],
+    "Birendranagar": [
+        [
+            61006,
+            "Surkhet"
+        ]
+    ],
+    "Barahatal": [
+        [
+            61007,
+            "Surkhet"
+        ]
+    ],
+    "Panchapuri": [
+        [
+            61008,
+            "Surkhet"
+        ]
+    ],
+    "Chaukune": [
+        [
+            61009,
+            "Surkhet"
+        ]
+    ],
+    "Himali": [
+        [
+            70101,
+            "Bajura"
+        ]
+    ],
+    "Gaumul": [
+        [
+            70102,
+            "Bajura"
+        ]
+    ],
+    "Budhinanda": [
+        [
+            70103,
+            "Bajura"
+        ]
+    ],
+    "Swamikartik Khapar": [
+        [
+            70104,
+            "Bajura"
+        ]
+    ],
+    "Jagannath": [
+        [
+            70105,
+            "Bajura"
+        ]
+    ],
+    "Badimalika": [
+        [
+            70106,
+            "Bajura"
+        ]
+    ],
+    "Khaptad Chhededaha": [
+        [
+            70107,
+            "Bajura"
+        ]
+    ],
+    "Saipal": [
+        [
+            70201,
+            "Bajhang"
+        ]
+    ],
+    "Bungal": [
+        [
+            70202,
+            "Bajhang"
+        ]
+    ],
+    "Surma": [
+        [
+            70203,
+            "Bajhang"
+        ]
+    ],
+    "Talkot": [
+        [
+            70204,
+            "Bajhang"
+        ]
+    ],
+    "Masta": [
+        [
+            70205,
+            "Bajhang"
+        ]
+    ],
+    "Jayaprithbi": [
+        [
+            70206,
+            "Bajhang"
+        ]
+    ],
+    "Chhabis Pathibhara": [
+        [
+            70207,
+            "Bajhang"
+        ]
+    ],
+    "Durgathali": [
+        [
+            70208,
+            "Bajhang"
+        ]
+    ],
+    "Kedarsyun": [
+        [
+            70209,
+            "Bajhang"
+        ]
+    ],
+    "Bitthadchir": [
+        [
+            70210,
+            "Bajhang"
+        ]
+    ],
+    "Thalara": [
+        [
+            70211,
+            "Bajhang"
+        ]
+    ],
+    "Khaptad Chhanna": [
+        [
+            70212,
+            "Bajhang"
+        ]
+    ],
+    "Duhun": [
+        [
+            70302,
+            "Darchula"
+        ]
+    ],
+    "Mahakali": [
+        [
+            70303,
+            "Darchula"
+        ],
+        [
+            70905,
+            "Kanchanpur"
+        ]
+    ],
+    "Naugad": [
+        [
+            70304,
+            "Darchula"
+        ]
+    ],
+    "Apihimal": [
+        [
+            70305,
+            "Darchula"
+        ]
+    ],
+    "Marma": [
+        [
+            70306,
+            "Darchula"
+        ]
+    ],
+    "Shailyashikhar": [
+        [
+            70307,
+            "Darchula"
+        ]
+    ],
+    "Malikarjun": [
+        [
+            70308,
+            "Darchula"
+        ]
+    ],
+    "Lekam": [
+        [
+            70309,
+            "Darchula"
+        ]
+    ],
+    "Dilasaini": [
+        [
+            70401,
+            "Baitadi"
+        ]
+    ],
+    "Dogada Kedar": [
+        [
+            70402,
+            "Baitadi"
+        ]
+    ],
+    "Puchaundi": [
+        [
+            70403,
+            "Baitadi"
+        ]
+    ],
+    "Surnaya": [
+        [
+            70404,
+            "Baitadi"
+        ]
+    ],
+    "Dasharathchand": [
+        [
+            70405,
+            "Baitadi"
+        ]
+    ],
+    "Pancheshwor": [
+        [
+            70406,
+            "Baitadi"
+        ]
+    ],
+    "Shivanath": [
+        [
+            70407,
+            "Baitadi"
+        ]
+    ],
+    "Melauli": [
+        [
+            70408,
+            "Baitadi"
+        ]
+    ],
+    "Patan": [
+        [
+            70409,
+            "Baitadi"
+        ]
+    ],
+    "Sigas": [
+        [
+            70410,
+            "Baitadi"
+        ]
+    ],
+    "Nawadurga": [
+        [
+            70501,
+            "Dadeldhura"
+        ]
+    ],
+    "Amargadhi": [
+        [
+            70502,
+            "Dadeldhura"
+        ]
+    ],
+    "Ajayameru": [
+        [
+            70503,
+            "Dadeldhura"
+        ]
+    ],
+    "Bhageshwor": [
+        [
+            70504,
+            "Dadeldhura"
+        ]
+    ],
+    "Parashuram": [
+        [
+            70505,
+            "Dadeldhura"
+        ]
+    ],
+    "Aalital": [
+        [
+            70506,
+            "Dadeldhura"
+        ]
+    ],
+    "Ganyapdhura": [
+        [
+            70507,
+            "Dadeldhura"
+        ]
+    ],
+    "Purbichouki": [
+        [
+            70601,
+            "Doti"
+        ]
+    ],
+    "Sayal": [
+        [
+            70602,
+            "Doti"
+        ]
+    ],
+    "Aadarsha": [
+        [
+            70603,
+            "Doti"
+        ]
+    ],
+    "Shikhar": [
+        [
+            70604,
+            "Doti"
+        ]
+    ],
+    "Dipayal Silgadhi": [
+        [
+            70605,
+            "Doti"
+        ]
+    ],
+    "K.I. Singh": [
+        [
+            70606,
+            "Doti"
+        ]
+    ],
+    "Bogatan Phudsil": [
+        [
+            70607,
+            "Doti"
+        ]
+    ],
+    "Badi Kedar": [
+        [
+            70608,
+            "Doti"
+        ]
+    ],
+    "Jorayal": [
+        [
+            70609,
+            "Doti"
+        ]
+    ],
+    "Panchdebal Binayak": [
+        [
+            70701,
+            "Achham"
+        ]
+    ],
+    "Ramaroshan": [
+        [
+            70702,
+            "Achham"
+        ]
+    ],
+    "Mellekh": [
+        [
+            70703,
+            "Achham"
+        ]
+    ],
+    "Sanphebagar": [
+        [
+            70704,
+            "Achham"
+        ]
+    ],
+    "Chaurpati": [
+        [
+            70705,
+            "Achham"
+        ]
+    ],
+    "Mangalsen": [
+        [
+            70706,
+            "Achham"
+        ]
+    ],
+    "Bannigadhi Jayagadh": [
+        [
+            70707,
+            "Achham"
+        ]
+    ],
+    "Kamal bazar": [
+        [
+            70708,
+            "Achham"
+        ]
+    ],
+    "Dhakari": [
+        [
+            70709,
+            "Achham"
+        ]
+    ],
+    "Turmakhand": [
+        [
+            70710,
+            "Achham"
+        ]
+    ],
+    "Mohanyal": [
+        [
+            70801,
+            "Kailali"
+        ]
+    ],
+    "Chure": [
+        [
+            70802,
+            "Kailali"
+        ]
+    ],
+    "Gauriganga": [
+        [
+            70804,
+            "Kailali"
+        ]
+    ],
+    "Ghodaghodi": [
+        [
+            70805,
+            "Kailali"
+        ]
+    ],
+    "Bardagoriya": [
+        [
+            70806,
+            "Kailali"
+        ]
+    ],
+    "Lamki Chuha": [
+        [
+            70807,
+            "Kailali"
+        ]
+    ],
+    "Joshipur": [
+        [
+            70809,
+            "Kailali"
+        ]
+    ],
+    "Tikapur": [
+        [
+            70810,
+            "Kailali"
+        ]
+    ],
+    "Bhajani": [
+        [
+            70811,
+            "Kailali"
+        ]
+    ],
+    "Kailari": [
+        [
+            70812,
+            "Kailali"
+        ]
+    ],
+    "Dhangadhi": [
+        [
+            70813,
+            "Kailali"
+        ]
+    ],
+    "Krishnapur": [
+        [
+            70901,
+            "Kanchanpur"
+        ]
+    ],
+    "Shuklaphanta": [
+        [
+            70902,
+            "Kanchanpur"
+        ]
+    ],
+    "Bedkot": [
+        [
+            70903,
+            "Kanchanpur"
+        ]
+    ],
+    "Bhimdatta": [
+        [
+            70904,
+            "Kanchanpur"
+        ]
+    ],
+    "Laljhadi": [
+        [
+            70906,
+            "Kanchanpur"
+        ]
+    ],
+    "Punarbas": [
+        [
+            70907,
+            "Kanchanpur"
+        ]
+    ],
+    "Belouri": [
+        [
+            70908,
+            "Kanchanpur"
+        ]
+    ],
+    "Beldandi": [
+        [
+            70909,
+            "Kanchanpur"
+        ]
+    ]
+}
