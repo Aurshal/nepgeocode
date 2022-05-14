@@ -19,13 +19,13 @@ get_code('Kathmandu','Kathmandu') #code for Kathmandu municpality
 ```python
 get_code('Tribeni') #it will return None
 ```
-###Correct way:
+### Correct way:
 ```python
 get_code('Tribeni','Rolpa') #it will return the code for Tribeni municipality in Rolpa
 ```
 
-###Also, some of the newly named district may not be available. For eg: Nawalpur.
-###You still need to use Nawaparasi East or Nawalparasi West for retrieving the code.
+### Also, some of the newly named district may not be available. For eg: Nawalpur.
+### You still need to use Nawaparasi East or Nawalparasi West for retrieving the code.
 
 
 
