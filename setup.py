@@ -4,8 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 setup(
     name="nepgeocode",
-    version="1.0.0",
+    version="1.0.1",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     description="A library for easy access to geological codes of district and municipalites in Nepal.",
     url="https://github.com/pypa/sampleproject",
     author="Kushal Subedi",
