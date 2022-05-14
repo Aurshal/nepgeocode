@@ -17,7 +17,7 @@ setup(
     package_dir={"": "src"},
     package_data={
         "": ["*.json"],
-        "mypkg": ["data/*.json", "data/*.xlsx"],
+        "": ["data/*.json", "data/*.xlsx"],
     },
     include_package_data=True,
     install_requires=[
