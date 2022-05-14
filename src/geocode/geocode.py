@@ -1,13 +1,20 @@
 from openpyxl import load_workbook
 from thefuzz import process
 import json
-
-wb = load_workbook('src/geocode/data/geocode.xlsx')
+import os
+import pkg_resources
+#defining paths for data files
+root_dir = os.path.dirname(__file__)
+geocode_xlsx = root_dir+'/data/geocode.xlsx' 
+dist_code_json = root_dir+'/data/dist_code.json' 
+mun_code_json = root_dir+'/data/mun_code.json' 
+#reading the xlsx file
+wb = load_workbook(geocode_xlsx)
 ws_district = wb["district_code"]
 ws_localunit = wb["localunit_code"]
 ws_pradesh = wb["pradesh_code"]
 try:
-    with open("src/geocode/data/dist_code.json", "r") as infile:
+    with open(dist_code_json, "r") as infile:
         dist_code_dict = json.load(infile)
 except:
     dist_code_dict = {}
@@ -16,10 +23,10 @@ except:
         dist_code = ws_district["E" + str(row)].value
         dist_code_dict[dist_name.title()] = dist_code
     jd = json.dumps(dist_code_dict, indent=4, ensure_ascii=False)
-    with open("src/geocode/data/dist_code.json", "w") as outfile:
+    with open(dist_code_json, "w") as outfile:
         outfile.write(jd)
 try:
-    with open("src/geocode/data/mun_code.json", "r") as infile:
+    with open(mun_code_json, "r") as infile:
         mun_code_dict = json.load(infile)
 except:
     mun_code_dict = {}
@@ -38,11 +45,15 @@ except:
         else:
             mun_code_dict[mun_name].append([mun_code, mun_dist])
     jd = json.dumps(mun_code_dict, indent=4, ensure_ascii=False)
-    with open("src/geocode/data/mun_code.json", "w") as outfile:
+    with open(mun_code_json, "w") as outfile:
         outfile.write(jd)
 
 
 def get_code(query: str, d_n=None):
+    '''
+    This function returns geological code for given
+    district or municipality code.
+    '''
     dp = []
     matched_query = process.extract(
         query, list(dist_code_dict.keys()) + list(mun_code_dict.keys())
@@ -74,5 +85,3 @@ def get_code(query: str, d_n=None):
                 print("Multiple municipalities found. Please mention district.")
                 return None
     return None
-
-
