@@ -1,4 +1,4 @@
-# Nepgeocode *A library for easy access to geological codes of district and municipalites in Nepal.*
+# Nepgeocode: *A library for easy access to geological codes of district and municipalites in Nepal.*
 
 ## Installation
 ```zsh
